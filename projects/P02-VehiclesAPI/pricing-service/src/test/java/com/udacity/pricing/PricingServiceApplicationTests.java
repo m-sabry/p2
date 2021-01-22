@@ -13,4 +13,5 @@ public class PricingServiceApplicationTests {
 	public void contextLoads() {
 	}
 
+	// TODO Add an additional test to check whether the application appropriately generates a price for a given vehicle ID
 }
